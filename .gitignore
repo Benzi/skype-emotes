@@ -1,4 +1,4 @@
-/emotes/raw
-/list.sh
-/get.sh
-/render.sh
+.DS_Store
+*.sh
+*.js
+*.txt
