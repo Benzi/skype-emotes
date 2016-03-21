@@ -1,4 +1,7 @@
 .DS_Store
+node_modules
 *.sh
 *.js
 *.txt
+*.json
+*.log
