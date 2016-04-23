@@ -141,6 +141,7 @@
 <a title="(party)" href="./emotes/anim/white/party.gif"><img src="./emotes/anim/white/party.gif" alt="(party)" width="45"></a>
 <a title="(penguin)" href="./emotes/anim/white/penguin.gif"><img src="./emotes/anim/white/penguin.gif" alt="(penguin)" width="45"></a>
 <a title="(phone)" href="./emotes/anim/white/phone.gif"><img src="./emotes/anim/white/phone.gif" alt="(phone)" width="45"></a>
+<a title="(pig)" href="./emotes/anim/white/pig.gif"><img src="./emotes/anim/white/pig.gif" alt="(pig)" width="45"></a>
 <a title="(pizza)" href="./emotes/anim/white/pizza.gif"><img src="./emotes/anim/white/pizza.gif" alt="(pizza)" width="45"></a>
 <a title="(plane)" href="./emotes/anim/white/plane.gif"><img src="./emotes/anim/white/plane.gif" alt="(plane)" width="45"></a>
 <a title="(poke)" href="./emotes/anim/white/poke.gif"><img src="./emotes/anim/white/poke.gif" alt="(poke)" width="45"></a>
@@ -156,6 +157,7 @@
 <a title="(punch)" href="./emotes/anim/white/punch.gif"><img src="./emotes/anim/white/punch.gif" alt="(punch)" width="45"></a>
 <a title="(rain)" href="./emotes/anim/white/rain.gif"><img src="./emotes/anim/white/rain.gif" alt="(rain)" width="45"></a>
 <a title="(rainbow)" href="./emotes/anim/white/rainbow.gif"><img src="./emotes/anim/white/rainbow.gif" alt="(rainbow)" width="45"></a>
+<a title="(red)" href="./emotes/anim/white/red.gif"><img src="./emotes/anim/white/red.gif" alt="(red)" width="45"></a>
 <a title="(reindeer)" href="./emotes/anim/white/reindeer.gif"><img src="./emotes/anim/white/reindeer.gif" alt="(reindeer)" width="45"></a>
 <a title="(rickshaw)" href="./emotes/anim/white/rickshaw.gif"><img src="./emotes/anim/white/rickshaw.gif" alt="(rickshaw)" width="45"></a>
 <a title="(rock)" href="./emotes/anim/white/rock.gif"><img src="./emotes/anim/white/rock.gif" alt="(rock)" width="45"></a>
