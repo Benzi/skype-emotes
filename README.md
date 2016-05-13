@@ -74,6 +74,7 @@
 <a title="(golmaal)" href="./emotes/anim/white/golmaal.gif"><img src="./emotes/anim/white/golmaal.gif" alt="(golmaal)" width="45"></a>
 <a title="(goodluck)" href="./emotes/anim/white/goodluck.gif"><img src="./emotes/anim/white/goodluck.gif" alt="(goodluck)" width="45"></a>
 <a title="(gottarun)" href="./emotes/anim/white/gottarun.gif"><img src="./emotes/anim/white/gottarun.gif" alt="(gottarun)" width="45"></a>
+<a title="(gran)" href="./emotes/anim/white/gran.gif"><img src="./emotes/anim/white/gran.gif" alt="(gran)" width="45"></a>
 <a title="(handshake)" href="./emotes/anim/white/handshake.gif"><img src="./emotes/anim/white/handshake.gif" alt="(handshake)" width="45"></a>
 <a title="(handsinair)" href="./emotes/anim/white/handsinair.gif"><img src="./emotes/anim/white/handsinair.gif" alt="(handsinair)" width="45"></a>
 <a title="(hanukkah)" href="./emotes/anim/white/hanukkah.gif"><img src="./emotes/anim/white/hanukkah.gif" alt="(hanukkah)" width="45"></a>
@@ -83,6 +84,7 @@
 <a title="(heart)" href="./emotes/anim/white/heart.gif"><img src="./emotes/anim/white/heart.gif" alt="(heart)" width="45"></a>
 <a title="(heidy)" href="./emotes/anim/white/heidy.gif"><img src="./emotes/anim/white/heidy.gif" alt="(heidy)" width="45"></a>
 <a title="(henderson14)" href="./emotes/anim/white/henderson14.gif"><img src="./emotes/anim/white/henderson14.gif" alt="(henderson14)" width="45"></a>
+<a title="(hero)" href="./emotes/anim/white/hero.gif"><img src="./emotes/anim/white/hero.gif" alt="(hero)" width="45"></a>
 <a title="(hi)" href="./emotes/anim/white/hi.gif"><img src="./emotes/anim/white/hi.gif" alt="(hi)" width="45"></a>
 <a title="(highfive)" href="./emotes/anim/white/highfive.gif"><img src="./emotes/anim/white/highfive.gif" alt="(highfive)" width="45"></a>
 <a title="(holdon)" href="./emotes/anim/white/holdon.gif"><img src="./emotes/anim/white/holdon.gif" alt="(holdon)" width="45"></a>
