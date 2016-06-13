@@ -19,6 +19,7 @@
 <a title="(brokenheart)" href="./emotes/anim/white/brokenheart.gif"><img src="./emotes/anim/white/brokenheart.gif" alt="(brokenheart)" width="45"></a>
 <a title="(bug)" href="./emotes/anim/white/bug.gif"><img src="./emotes/anim/white/bug.gif" alt="(bug)" width="45"></a>
 <a title="(bunny)" href="./emotes/anim/white/bunny.gif"><img src="./emotes/anim/white/bunny.gif" alt="(bunny)" width="45"></a>
+<a title="(busyday)" href="./emotes/anim/white/busyday.gif"><img src="./emotes/anim/white/busyday.gif" alt="(busyday)" width="45"></a>
 <a title="(cake)" href="./emotes/anim/white/cake.gif"><img src="./emotes/anim/white/cake.gif" alt="(cake)" width="45"></a>
 <a title="(call)" href="./emotes/anim/white/call.gif"><img src="./emotes/anim/white/call.gif" alt="(call)" width="45"></a>
 <a title="(camera)" href="./emotes/anim/white/camera.gif"><img src="./emotes/anim/white/camera.gif" alt="(camera)" width="45"></a>
@@ -178,6 +179,7 @@
 <a title="(skull)" href="./emotes/anim/white/skull.gif"><img src="./emotes/anim/white/skull.gif" alt="(skull)" width="45"></a>
 <a title="(slap)" href="./emotes/anim/white/slap.gif"><img src="./emotes/anim/white/slap.gif" alt="(slap)" width="45"></a>
 <a title="(sleepy)" href="./emotes/anim/white/sleepy.gif"><img src="./emotes/anim/white/sleepy.gif" alt="(sleepy)" width="45"></a>
+<a title="(sloth)" href="./emotes/anim/white/sloth.gif"><img src="./emotes/anim/white/sloth.gif" alt="(sloth)" width="45"></a>
 <a title="(smile)" href="./emotes/anim/white/smile.gif"><img src="./emotes/anim/white/smile.gif" alt="(smile)" width="45"></a>
 <a title="(smirk)" href="./emotes/anim/white/smirk.gif"><img src="./emotes/anim/white/smirk.gif" alt="(smirk)" width="45"></a>
 <a title="(smoke)" href="./emotes/anim/white/smoke.gif"><img src="./emotes/anim/white/smoke.gif" alt="(smoke)" width="45"></a>
@@ -196,6 +198,7 @@
 <a title="(talktothehand)" href="./emotes/anim/white/talktothehand.gif"><img src="./emotes/anim/white/talktothehand.gif" alt="(talktothehand)" width="45"></a>
 <a title="(tandoorichicken)" href="./emotes/anim/white/tandoorichicken.gif"><img src="./emotes/anim/white/tandoorichicken.gif" alt="(tandoorichicken)" width="45"></a>
 <a title="(taur)" href="./emotes/anim/white/taur.gif"><img src="./emotes/anim/white/taur.gif" alt="(taur)" width="45"></a>
+<a title="(thanks)" href="./emotes/anim/white/thanks.gif"><img src="./emotes/anim/white/thanks.gif" alt="(thanks)" width="45"></a>
 <a title="(think)" href="./emotes/anim/white/think.gif"><img src="./emotes/anim/white/think.gif" alt="(think)" width="45"></a>
 <a title="(time)" href="./emotes/anim/white/time.gif"><img src="./emotes/anim/white/time.gif" alt="(time)" width="45"></a>
 <a title="(tmi)" href="./emotes/anim/white/tmi.gif"><img src="./emotes/anim/white/tmi.gif" alt="(tmi)" width="45"></a>
