@@ -1,6 +1,7 @@
 # A curated list of Skype emoticons
 
 <a title="(abe)" href="./emotes/anim/white/abe.gif"><img src="./emotes/anim/white/abe.gif" alt="(abe)" width="45"></a>
+<a title="(ancientone)" href="./emotes/anim/white/ancientone.gif"><img src="./emotes/anim/white/ancientone.gif" alt="(ancientone)" width="45"></a>
 <a title="(angel)" href="./emotes/anim/white/angel.gif"><img src="./emotes/anim/white/angel.gif" alt="(angel)" width="45"></a>
 <a title="(anger)" href="./emotes/anim/white/anger.gif"><img src="./emotes/anim/white/anger.gif" alt="(anger)" width="45"></a>
 <a title="(angry)" href="./emotes/anim/white/angry.gif"><img src="./emotes/anim/white/angry.gif" alt="(angry)" width="45"></a>
@@ -47,6 +48,7 @@
 <a title="(discodancer)" href="./emotes/anim/white/discodancer.gif"><img src="./emotes/anim/white/discodancer.gif" alt="(discodancer)" width="45"></a>
 <a title="(disgust)" href="./emotes/anim/white/disgust.gif"><img src="./emotes/anim/white/disgust.gif" alt="(disgust)" width="45"></a>
 <a title="(diya)" href="./emotes/anim/white/diya.gif"><img src="./emotes/anim/white/diya.gif" alt="(diya)" width="45"></a>
+<a title="(doctorstrange)" href="./emotes/anim/white/doctorstrange.gif"><img src="./emotes/anim/white/doctorstrange.gif" alt="(doctorstrange)" width="45"></a>
 <a title="(dog)" href="./emotes/anim/white/dog.gif"><img src="./emotes/anim/white/dog.gif" alt="(dog)" width="45"></a>
 <a title="(doh)" href="./emotes/anim/white/doh.gif"><img src="./emotes/anim/white/doh.gif" alt="(doh)" width="45"></a>
 <a title="(donkey)" href="./emotes/anim/white/donkey.gif"><img src="./emotes/anim/white/donkey.gif" alt="(donkey)" width="45"></a>
@@ -102,6 +104,8 @@
 <a title="(island)" href="./emotes/anim/white/island.gif"><img src="./emotes/anim/white/island.gif" alt="(island)" width="45"></a>
 <a title="(joy)" href="./emotes/anim/white/joy.gif"><img src="./emotes/anim/white/joy.gif" alt="(joy)" width="45"></a>
 <a title="(kaanpakadna)" href="./emotes/anim/white/kaanpakadna.gif"><img src="./emotes/anim/white/kaanpakadna.gif" alt="(kaanpakadna)" width="45"></a>
+<a title="(kaecilius)" href="./emotes/anim/white/kaecilius.gif"><img src="./emotes/anim/white/kaecilius.gif" alt="(kaecilius)" width="45"></a>
+<a title="(karlmordo)" href="./emotes/anim/white/karlmordo.gif"><img src="./emotes/anim/white/karlmordo.gif" alt="(karlmordo)" width="45"></a>
 <a title="(key)" href="./emotes/anim/white/key.gif"><img src="./emotes/anim/white/key.gif" alt="(key)" width="45"></a>
 <a title="(kiss)" href="./emotes/anim/white/kiss.gif"><img src="./emotes/anim/white/kiss.gif" alt="(kiss)" width="45"></a>
 <a title="(klopp)" href="./emotes/anim/white/klopp.gif"><img src="./emotes/anim/white/klopp.gif" alt="(klopp)" width="45"></a>
@@ -241,6 +245,7 @@
 <a title="(winner)" href="./emotes/anim/white/winner.gif"><img src="./emotes/anim/white/winner.gif" alt="(winner)" width="45"></a>
 <a title="(woman)" href="./emotes/anim/white/woman.gif"><img src="./emotes/anim/white/woman.gif" alt="(woman)" width="45"></a>
 <a title="(wonder)" href="./emotes/anim/white/wonder.gif"><img src="./emotes/anim/white/wonder.gif" alt="(wonder)" width="45"></a>
+<a title="(wong)" href="./emotes/anim/white/wong.gif"><img src="./emotes/anim/white/wong.gif" alt="(wong)" width="45"></a>
 <a title="(worry)" href="./emotes/anim/white/worry.gif"><img src="./emotes/anim/white/worry.gif" alt="(worry)" width="45"></a>
 <a title="(wtf)" href="./emotes/anim/white/wtf.gif"><img src="./emotes/anim/white/wtf.gif" alt="(wtf)" width="45"></a>
 <a title="(xmastree)" href="./emotes/anim/white/xmastree.gif"><img src="./emotes/anim/white/xmastree.gif" alt="(xmastree)" width="45"></a>
