@@ -98,6 +98,7 @@
 <a title="(holidayspirit)" href="./emotes/anim/white/holidayspirit.gif"><img src="./emotes/anim/white/holidayspirit.gif" alt="(holidayspirit)" width="45"></a>
 <a title="(hug)" href="./emotes/anim/white/hug.gif"><img src="./emotes/anim/white/hug.gif" alt="(hug)" width="45"></a>
 <a title="(hungover)" href="./emotes/anim/white/hungover.gif"><img src="./emotes/anim/white/hungover.gif" alt="(hungover)" width="45"></a>
+<a title="(hungrycat)" href="./emotes/anim/white/hungrycat.gif"><img src="./emotes/anim/white/hungrycat.gif" alt="(hungrycat)" width="45"></a>
 <a title="(idea)" href="./emotes/anim/white/idea.gif"><img src="./emotes/anim/white/idea.gif" alt="(idea)" width="45"></a>
 <a title="(ill)" href="./emotes/anim/white/ill.gif"><img src="./emotes/anim/white/ill.gif" alt="(ill)" width="45"></a>
 <a title="(inlove)" href="./emotes/anim/white/inlove.gif"><img src="./emotes/anim/white/inlove.gif" alt="(inlove)" width="45"></a>
