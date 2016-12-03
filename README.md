@@ -54,6 +54,7 @@
 <a title="(donkey)" href="./emotes/anim/white/donkey.gif"><img src="./emotes/anim/white/donkey.gif" alt="(donkey)" width="45"></a>
 <a title="(donttalktome)" href="./emotes/anim/white/donttalktome.gif"><img src="./emotes/anim/white/donttalktome.gif" alt="(donttalktome)" width="45"></a>
 <a title="(dream)" href="./emotes/anim/white/dream.gif"><img src="./emotes/anim/white/dream.gif" alt="(dream)" width="45"></a>
+<a title="(dreidel)" href="./emotes/anim/white/dreidel.gif"><img src="./emotes/anim/white/dreidel.gif" alt="(dreidel)" width="45"></a>
 <a title="(drink)" href="./emotes/anim/white/drink.gif"><img src="./emotes/anim/white/drink.gif" alt="(drink)" width="45"></a>
 <a title="(drunk)" href="./emotes/anim/white/drunk.gif"><img src="./emotes/anim/white/drunk.gif" alt="(drunk)" width="45"></a>
 <a title="(dull)" href="./emotes/anim/white/dull.gif"><img src="./emotes/anim/white/dull.gif" alt="(dull)" width="45"></a>
@@ -129,9 +130,11 @@
 <a title="(mail)" href="./emotes/anim/white/mail.gif"><img src="./emotes/anim/white/mail.gif" alt="(mail)" width="45"></a>
 <a title="(makeup)" href="./emotes/anim/white/makeup.gif"><img src="./emotes/anim/white/makeup.gif" alt="(makeup)" width="45"></a>
 <a title="(man)" href="./emotes/anim/white/man.gif"><img src="./emotes/anim/white/man.gif" alt="(man)" width="45"></a>
+<a title="(mistletoe)" href="./emotes/anim/white/mistletoe.gif"><img src="./emotes/anim/white/mistletoe.gif" alt="(mistletoe)" width="45"></a>
 <a title="(mlt)" href="./emotes/anim/white/mlt.gif"><img src="./emotes/anim/white/mlt.gif" alt="(mlt)" width="45"></a>
 <a title="(mmm)" href="./emotes/anim/white/mmm.gif"><img src="./emotes/anim/white/mmm.gif" alt="(mmm)" width="45"></a>
 <a title="(monkey)" href="./emotes/anim/white/monkey.gif"><img src="./emotes/anim/white/monkey.gif" alt="(monkey)" width="45"></a>
+<a title="(monkeygiggle)" href="./emotes/anim/white/monkeygiggle.gif"><img src="./emotes/anim/white/monkeygiggle.gif" alt="(monkeygiggle)" width="45"></a>
 <a title="(mooning)" href="./emotes/anim/white/mooning.gif"><img src="./emotes/anim/white/mooning.gif" alt="(mooning)" width="45"></a>
 <a title="(movember)" href="./emotes/anim/white/movember.gif"><img src="./emotes/anim/white/movember.gif" alt="(movember)" width="45"></a>
 <a title="(movie)" href="./emotes/anim/white/movie.gif"><img src="./emotes/anim/white/movie.gif" alt="(movie)" width="45"></a>
@@ -152,6 +155,7 @@
 <a title="(oye)" href="./emotes/anim/white/oye.gif"><img src="./emotes/anim/white/oye.gif" alt="(oye)" width="45"></a>
 <a title="(party)" href="./emotes/anim/white/party.gif"><img src="./emotes/anim/white/party.gif" alt="(party)" width="45"></a>
 <a title="(penguin)" href="./emotes/anim/white/penguin.gif"><img src="./emotes/anim/white/penguin.gif" alt="(penguin)" width="45"></a>
+<a title="(penguinkiss)" href="./emotes/anim/white/penguinkiss.gif"><img src="./emotes/anim/white/penguinkiss.gif" alt="(penguinkiss)" width="45"></a>
 <a title="(phone)" href="./emotes/anim/white/phone.gif"><img src="./emotes/anim/white/phone.gif" alt="(phone)" width="45"></a>
 <a title="(pig)" href="./emotes/anim/white/pig.gif"><img src="./emotes/anim/white/pig.gif" alt="(pig)" width="45"></a>
 <a title="(pizza)" href="./emotes/anim/white/pizza.gif"><img src="./emotes/anim/white/pizza.gif" alt="(pizza)" width="45"></a>
@@ -199,6 +203,7 @@
 <a title="(smoke)" href="./emotes/anim/white/smoke.gif"><img src="./emotes/anim/white/smoke.gif" alt="(smoke)" width="45"></a>
 <a title="(snail)" href="./emotes/anim/white/snail.gif"><img src="./emotes/anim/white/snail.gif" alt="(snail)" width="45"></a>
 <a title="(snowangel)" href="./emotes/anim/white/snowangel.gif"><img src="./emotes/anim/white/snowangel.gif" alt="(snowangel)" width="45"></a>
+<a title="(snowflake)" href="./emotes/anim/white/snowflake.gif"><img src="./emotes/anim/white/snowflake.gif" alt="(snowflake)" width="45"></a>
 <a title="(speechless)" href="./emotes/anim/white/speechless.gif"><img src="./emotes/anim/white/speechless.gif" alt="(speechless)" width="45"></a>
 <a title="(star)" href="./emotes/anim/white/star.gif"><img src="./emotes/anim/white/star.gif" alt="(star)" width="45"></a>
 <a title="(stop)" href="./emotes/anim/white/stop.gif"><img src="./emotes/anim/white/stop.gif" alt="(stop)" width="45"></a>
