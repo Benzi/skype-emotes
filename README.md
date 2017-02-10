@@ -23,6 +23,7 @@
 <a title="(bug)" href="./emotes/anim/white/bug.gif"><img src="./emotes/anim/white/bug.gif" alt="(bug)" width="45"></a>
 <a title="(bunny)" href="./emotes/anim/white/bunny.gif"><img src="./emotes/anim/white/bunny.gif" alt="(bunny)" width="45"></a>
 <a title="(busyday)" href="./emotes/anim/white/busyday.gif"><img src="./emotes/anim/white/busyday.gif" alt="(busyday)" width="45"></a>
+<a title="(cactuslove)" href="./emotes/anim/white/cactuslove.gif"><img src="./emotes/anim/white/cactuslove.gif" alt="(cactuslove)" width="45"></a>
 <a title="(cake)" href="./emotes/anim/white/cake.gif"><img src="./emotes/anim/white/cake.gif" alt="(cake)" width="45"></a>
 <a title="(call)" href="./emotes/anim/white/call.gif"><img src="./emotes/anim/white/call.gif" alt="(call)" width="45"></a>
 <a title="(camera)" href="./emotes/anim/white/camera.gif"><img src="./emotes/anim/white/camera.gif" alt="(camera)" width="45"></a>
@@ -92,6 +93,7 @@
 <a title="(headphones)" href="./emotes/anim/white/headphones.gif"><img src="./emotes/anim/white/headphones.gif" alt="(headphones)" width="45"></a>
 <a title="(heart)" href="./emotes/anim/white/heart.gif"><img src="./emotes/anim/white/heart.gif" alt="(heart)" width="45"></a>
 <a title="(hearteyes)" href="./emotes/anim/white/hearteyes.gif"><img src="./emotes/anim/white/hearteyes.gif" alt="(hearteyes)" width="45"></a>
+<a title="(hearthands)" href="./emotes/anim/white/hearthands.gif"><img src="./emotes/anim/white/hearthands.gif" alt="(hearthands)" width="45"></a>
 <a title="(heidy)" href="./emotes/anim/white/heidy.gif"><img src="./emotes/anim/white/heidy.gif" alt="(heidy)" width="45"></a>
 <a title="(henderson14)" href="./emotes/anim/white/henderson14.gif"><img src="./emotes/anim/white/henderson14.gif" alt="(henderson14)" width="45"></a>
 <a title="(hero)" href="./emotes/anim/white/hero.gif"><img src="./emotes/anim/white/hero.gif" alt="(hero)" width="45"></a>
@@ -132,9 +134,11 @@
 <a title="(lipssealed)" href="./emotes/anim/white/lipssealed.gif"><img src="./emotes/anim/white/lipssealed.gif" alt="(lipssealed)" width="45"></a>
 <a title="(listening)" href="./emotes/anim/white/listening.gif"><img src="./emotes/anim/white/listening.gif" alt="(listening)" width="45"></a>
 <a title="(llsshock)" href="./emotes/anim/white/llsshock.gif"><img src="./emotes/anim/white/llsshock.gif" alt="(llsshock)" width="45"></a>
+<a title="(lovegift)" href="./emotes/anim/white/lovegift.gif"><img src="./emotes/anim/white/lovegift.gif" alt="(lovegift)" width="45"></a>
 <a title="(mail)" href="./emotes/anim/white/mail.gif"><img src="./emotes/anim/white/mail.gif" alt="(mail)" width="45"></a>
 <a title="(makeup)" href="./emotes/anim/white/makeup.gif"><img src="./emotes/anim/white/makeup.gif" alt="(makeup)" width="45"></a>
 <a title="(man)" href="./emotes/anim/white/man.gif"><img src="./emotes/anim/white/man.gif" alt="(man)" width="45"></a>
+<a title="(mariachilove)" href="./emotes/anim/white/mariachilove.gif"><img src="./emotes/anim/white/mariachilove.gif" alt="(mariachilove)" width="45"></a>
 <a title="(mistletoe)" href="./emotes/anim/white/mistletoe.gif"><img src="./emotes/anim/white/mistletoe.gif" alt="(mistletoe)" width="45"></a>
 <a title="(mlt)" href="./emotes/anim/white/mlt.gif"><img src="./emotes/anim/white/mlt.gif" alt="(mlt)" width="45"></a>
 <a title="(mmm)" href="./emotes/anim/white/mmm.gif"><img src="./emotes/anim/white/mmm.gif" alt="(mmm)" width="45"></a>
@@ -268,6 +272,7 @@
 <a title="(yawn)" href="./emotes/anim/white/yawn.gif"><img src="./emotes/anim/white/yawn.gif" alt="(yawn)" width="45"></a>
 <a title="(yes)" href="./emotes/anim/white/yes.gif"><img src="./emotes/anim/white/yes.gif" alt="(yes)" width="45"></a>
 <a title="(yoga)" href="./emotes/anim/white/yoga.gif"><img src="./emotes/anim/white/yoga.gif" alt="(yoga)" width="45"></a>
+<a title="(yotfr)" href="./emotes/anim/white/yotfr.gif"><img src="./emotes/anim/white/yotfr.gif" alt="(yotfr)" width="45"></a>
 <a title="(yotm)" href="./emotes/anim/white/yotm.gif"><img src="./emotes/anim/white/yotm.gif" alt="(yotm)" width="45"></a>
 <a title="(zombie)" href="./emotes/anim/white/zombie.gif"><img src="./emotes/anim/white/zombie.gif" alt="(zombie)" width="45"></a>
 
