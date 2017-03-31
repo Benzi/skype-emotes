@@ -6,6 +6,7 @@
 <a title="(anger)" href="./emotes/anim/white/anger.gif"><img src="./emotes/anim/white/anger.gif" alt="(anger)" width="45"></a>
 <a title="(angry)" href="./emotes/anim/white/angry.gif"><img src="./emotes/anim/white/angry.gif" alt="(angry)" width="45"></a>
 <a title="(auld)" href="./emotes/anim/white/auld.gif"><img src="./emotes/anim/white/auld.gif" alt="(auld)" width="45"></a>
+<a title="(avocadolove)" href="./emotes/anim/white/avocadolove.gif"><img src="./emotes/anim/white/avocadolove.gif" alt="(avocadolove)" width="45"></a>
 <a title="(bandit)" href="./emotes/anim/white/bandit.gif"><img src="./emotes/anim/white/bandit.gif" alt="(bandit)" width="45"></a>
 <a title="(beer)" href="./emotes/anim/white/beer.gif"><img src="./emotes/anim/white/beer.gif" alt="(beer)" width="45"></a>
 <a title="(bell)" href="./emotes/anim/white/bell.gif"><img src="./emotes/anim/white/bell.gif" alt="(bell)" width="45"></a>
@@ -44,6 +45,7 @@
 <a title="(cool)" href="./emotes/anim/white/cool.gif"><img src="./emotes/anim/white/cool.gif" alt="(cool)" width="45"></a>
 <a title="(coutinho10)" href="./emotes/anim/white/coutinho10.gif"><img src="./emotes/anim/white/coutinho10.gif" alt="(coutinho10)" width="45"></a>
 <a title="(cry)" href="./emotes/anim/white/cry.gif"><img src="./emotes/anim/white/cry.gif" alt="(cry)" width="45"></a>
+<a title="(cupcake)" href="./emotes/anim/white/cupcake.gif"><img src="./emotes/anim/white/cupcake.gif" alt="(cupcake)" width="45"></a>
 <a title="(cwl)" href="./emotes/anim/white/cwl.gif"><img src="./emotes/anim/white/cwl.gif" alt="(cwl)" width="45"></a>
 <a title="(dance)" href="./emotes/anim/white/dance.gif"><img src="./emotes/anim/white/dance.gif" alt="(dance)" width="45"></a>
 <a title="(devil)" href="./emotes/anim/white/devil.gif"><img src="./emotes/anim/white/devil.gif" alt="(devil)" width="45"></a>
@@ -102,6 +104,7 @@
 <a title="(holdon)" href="./emotes/anim/white/holdon.gif"><img src="./emotes/anim/white/holdon.gif" alt="(holdon)" width="45"></a>
 <a title="(holi)" href="./emotes/anim/white/holi.gif"><img src="./emotes/anim/white/holi.gif" alt="(holi)" width="45"></a>
 <a title="(holidayspirit)" href="./emotes/anim/white/holidayspirit.gif"><img src="./emotes/anim/white/holidayspirit.gif" alt="(holidayspirit)" width="45"></a>
+<a title="(hotchocolate)" href="./emotes/anim/white/hotchocolate.gif"><img src="./emotes/anim/white/hotchocolate.gif" alt="(hotchocolate)" width="45"></a>
 <a title="(hug)" href="./emotes/anim/white/hug.gif"><img src="./emotes/anim/white/hug.gif" alt="(hug)" width="45"></a>
 <a title="(hungover)" href="./emotes/anim/white/hungover.gif"><img src="./emotes/anim/white/hungover.gif" alt="(hungover)" width="45"></a>
 <a title="(hungrycat)" href="./emotes/anim/white/hungrycat.gif"><img src="./emotes/anim/white/hungrycat.gif" alt="(hungrycat)" width="45"></a>
