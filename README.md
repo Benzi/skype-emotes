@@ -99,6 +99,8 @@
 <a title="(heidy)" href="./emotes/anim/white/heidy.gif"><img src="./emotes/anim/white/heidy.gif" alt="(heidy)" width="45"></a>
 <a title="(henderson14)" href="./emotes/anim/white/henderson14.gif"><img src="./emotes/anim/white/henderson14.gif" alt="(henderson14)" width="45"></a>
 <a title="(hero)" href="./emotes/anim/white/hero.gif"><img src="./emotes/anim/white/hero.gif" alt="(hero)" width="45"></a>
+<a title="(heston)" href="./emotes/anim/white/heston.gif"><img src="./emotes/anim/white/heston.gif" alt="(heston)" width="45"></a>
+<a title="(hestonfacepalm)" href="./emotes/anim/white/hestonfacepalm.gif"><img src="./emotes/anim/white/hestonfacepalm.gif" alt="(hestonfacepalm)" width="45"></a>
 <a title="(hi)" href="./emotes/anim/white/hi.gif"><img src="./emotes/anim/white/hi.gif" alt="(hi)" width="45"></a>
 <a title="(highfive)" href="./emotes/anim/white/highfive.gif"><img src="./emotes/anim/white/highfive.gif" alt="(highfive)" width="45"></a>
 <a title="(holdon)" href="./emotes/anim/white/holdon.gif"><img src="./emotes/anim/white/holdon.gif" alt="(holdon)" width="45"></a>
