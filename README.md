@@ -37,6 +37,7 @@
 <a title="(chappal)" href="./emotes/anim/white/chappal.gif"><img src="./emotes/anim/white/chappal.gif" alt="(chappal)" width="45"></a>
 <a title="(cheers)" href="./emotes/anim/white/cheers.gif"><img src="./emotes/anim/white/cheers.gif" alt="(cheers)" width="45"></a>
 <a title="(cheese)" href="./emotes/anim/white/cheese.gif"><img src="./emotes/anim/white/cheese.gif" alt="(cheese)" width="45"></a>
+<a title="(chicksegg)" href="./emotes/anim/white/chicksegg.gif"><img src="./emotes/anim/white/chicksegg.gif" alt="(chicksegg)" width="45"></a>
 <a title="(clap)" href="./emotes/anim/white/clap.gif"><img src="./emotes/anim/white/clap.gif" alt="(clap)" width="45"></a>
 <a title="(coffee)" href="./emotes/anim/white/coffee.gif"><img src="./emotes/anim/white/coffee.gif" alt="(coffee)" width="45"></a>
 <a title="(computer)" href="./emotes/anim/white/computer.gif"><img src="./emotes/anim/white/computer.gif" alt="(computer)" width="45"></a>
@@ -97,6 +98,7 @@
 <a title="(hearteyes)" href="./emotes/anim/white/hearteyes.gif"><img src="./emotes/anim/white/hearteyes.gif" alt="(hearteyes)" width="45"></a>
 <a title="(hearthands)" href="./emotes/anim/white/hearthands.gif"><img src="./emotes/anim/white/hearthands.gif" alt="(hearthands)" width="45"></a>
 <a title="(heidy)" href="./emotes/anim/white/heidy.gif"><img src="./emotes/anim/white/heidy.gif" alt="(heidy)" width="45"></a>
+<a title="(hendance)" href="./emotes/anim/white/hendance.gif"><img src="./emotes/anim/white/hendance.gif" alt="(hendance)" width="45"></a>
 <a title="(henderson14)" href="./emotes/anim/white/henderson14.gif"><img src="./emotes/anim/white/henderson14.gif" alt="(henderson14)" width="45"></a>
 <a title="(hero)" href="./emotes/anim/white/hero.gif"><img src="./emotes/anim/white/hero.gif" alt="(hero)" width="45"></a>
 <a title="(heston)" href="./emotes/anim/white/heston.gif"><img src="./emotes/anim/white/heston.gif" alt="(heston)" width="45"></a>
@@ -125,6 +127,7 @@
 <a title="(laddu)" href="./emotes/anim/white/laddu.gif"><img src="./emotes/anim/white/laddu.gif" alt="(laddu)" width="45"></a>
 <a title="(ladyvampire)" href="./emotes/anim/white/ladyvampire.gif"><img src="./emotes/anim/white/ladyvampire.gif" alt="(ladyvampire)" width="45"></a>
 <a title="(lalala)" href="./emotes/anim/white/lalala.gif"><img src="./emotes/anim/white/lalala.gif" alt="(lalala)" width="45"></a>
+<a title="(lamb)" href="./emotes/anim/white/lamb.gif"><img src="./emotes/anim/white/lamb.gif" alt="(lamb)" width="45"></a>
 <a title="(lang)" href="./emotes/anim/white/lang.gif"><img src="./emotes/anim/white/lang.gif" alt="(lang)" width="45"></a>
 <a title="(laugh)" href="./emotes/anim/white/laugh.gif"><img src="./emotes/anim/white/laugh.gif" alt="(laugh)" width="45"></a>
 <a title="(learn)" href="./emotes/anim/white/learn.gif"><img src="./emotes/anim/white/learn.gif" alt="(learn)" width="45"></a>
@@ -161,6 +164,7 @@
 <a title="(nazar)" href="./emotes/anim/white/nazar.gif"><img src="./emotes/anim/white/nazar.gif" alt="(nazar)" width="45"></a>
 <a title="(neil)" href="./emotes/anim/white/neil.gif"><img src="./emotes/anim/white/neil.gif" alt="(neil)" width="45"></a>
 <a title="(nerdy)" href="./emotes/anim/white/nerdy.gif"><img src="./emotes/anim/white/nerdy.gif" alt="(nerdy)" width="45"></a>
+<a title="(nestingeggs)" href="./emotes/anim/white/nestingeggs.gif"><img src="./emotes/anim/white/nestingeggs.gif" alt="(nestingeggs)" width="45"></a>
 <a title="(ninja)" href="./emotes/anim/white/ninja.gif"><img src="./emotes/anim/white/ninja.gif" alt="(ninja)" width="45"></a>
 <a title="(no)" href="./emotes/anim/white/no.gif"><img src="./emotes/anim/white/no.gif" alt="(no)" width="45"></a>
 <a title="(nod)" href="./emotes/anim/white/nod.gif"><img src="./emotes/anim/white/nod.gif" alt="(nod)" width="45"></a>
@@ -194,6 +198,7 @@
 <a title="(rickshaw)" href="./emotes/anim/white/rickshaw.gif"><img src="./emotes/anim/white/rickshaw.gif" alt="(rickshaw)" width="45"></a>
 <a title="(ring)" href="./emotes/anim/white/ring.gif"><img src="./emotes/anim/white/ring.gif" alt="(ring)" width="45"></a>
 <a title="(rock)" href="./emotes/anim/white/rock.gif"><img src="./emotes/anim/white/rock.gif" alt="(rock)" width="45"></a>
+<a title="(rockchick)" href="./emotes/anim/white/rockchick.gif"><img src="./emotes/anim/white/rockchick.gif" alt="(rockchick)" width="45"></a>
 <a title="(rofl)" href="./emotes/anim/white/rofl.gif"><img src="./emotes/anim/white/rofl.gif" alt="(rofl)" width="45"></a>
 <a title="(running)" href="./emotes/anim/white/running.gif"><img src="./emotes/anim/white/running.gif" alt="(running)" width="45"></a>
 <a title="(sad)" href="./emotes/anim/white/sad.gif"><img src="./emotes/anim/white/sad.gif" alt="(sad)" width="45"></a>
