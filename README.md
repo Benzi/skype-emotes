@@ -7,6 +7,7 @@
 <a title="(angry)" href="./emotes/anim/white/angry.gif"><img src="./emotes/anim/white/angry.gif" alt="(angry)" width="45"></a>
 <a title="(auld)" href="./emotes/anim/white/auld.gif"><img src="./emotes/anim/white/auld.gif" alt="(auld)" width="45"></a>
 <a title="(avocadolove)" href="./emotes/anim/white/avocadolove.gif"><img src="./emotes/anim/white/avocadolove.gif" alt="(avocadolove)" width="45"></a>
+<a title="(baku2017)" href="./emotes/anim/white/baku2017.gif"><img src="./emotes/anim/white/baku2017.gif" alt="(baku2017)" width="45"></a>
 <a title="(bandit)" href="./emotes/anim/white/bandit.gif"><img src="./emotes/anim/white/bandit.gif" alt="(bandit)" width="45"></a>
 <a title="(beer)" href="./emotes/anim/white/beer.gif"><img src="./emotes/anim/white/beer.gif" alt="(beer)" width="45"></a>
 <a title="(bell)" href="./emotes/anim/white/bell.gif"><img src="./emotes/anim/white/bell.gif" alt="(bell)" width="45"></a>
@@ -71,6 +72,7 @@
 <a title="(evilgrin)" href="./emotes/anim/white/evilgrin.gif"><img src="./emotes/anim/white/evilgrin.gif" alt="(evilgrin)" width="45"></a>
 <a title="(facepalm)" href="./emotes/anim/white/facepalm.gif"><img src="./emotes/anim/white/facepalm.gif" alt="(facepalm)" width="45"></a>
 <a title="(fallinlove)" href="./emotes/anim/white/fallinlove.gif"><img src="./emotes/anim/white/fallinlove.gif" alt="(fallinlove)" width="45"></a>
+<a title="(familytime)" href="./emotes/anim/white/familytime.gif"><img src="./emotes/anim/white/familytime.gif" alt="(familytime)" width="45"></a>
 <a title="(fear)" href="./emotes/anim/white/fear.gif"><img src="./emotes/anim/white/fear.gif" alt="(fear)" width="45"></a>
 <a title="(festiveparty)" href="./emotes/anim/white/festiveparty.gif"><img src="./emotes/anim/white/festiveparty.gif" alt="(festiveparty)" width="45"></a>
 <a title="(finger)" href="./emotes/anim/white/finger.gif"><img src="./emotes/anim/white/finger.gif" alt="(finger)" width="45"></a>
