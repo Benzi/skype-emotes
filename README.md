@@ -206,6 +206,7 @@
 <a title="(penguin)" href="./emotes/anim/white/penguin.gif"><img src="./emotes/anim/white/penguin.gif" alt="(penguin)" width="45"></a>
 <a title="(penguinkiss)" href="./emotes/anim/white/penguinkiss.gif"><img src="./emotes/anim/white/penguinkiss.gif" alt="(penguinkiss)" width="45"></a>
 <a title="(phone)" href="./emotes/anim/white/phone.gif"><img src="./emotes/anim/white/phone.gif" alt="(phone)" width="45"></a>
+<a title="(pie)" href="./emotes/anim/white/pie.gif"><img src="./emotes/anim/white/pie.gif" alt="(pie)" width="45"></a>
 <a title="(pig)" href="./emotes/anim/white/pig.gif"><img src="./emotes/anim/white/pig.gif" alt="(pig)" width="45"></a>
 <a title="(piggybank)" href="./emotes/anim/white/piggybank.gif"><img src="./emotes/anim/white/piggybank.gif" alt="(piggybank)" width="45"></a>
 <a title="(pizza)" href="./emotes/anim/white/pizza.gif"><img src="./emotes/anim/white/pizza.gif" alt="(pizza)" width="45"></a>
